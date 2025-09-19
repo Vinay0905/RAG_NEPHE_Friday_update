@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+requests
+beautifulsoup4
+PyPDF2
+speechrecognition
+pygame
+edge-tts
+python-dotenv
+scikit-learn
+langchain
+langchain-openai
+langchain-chroma
+groq
