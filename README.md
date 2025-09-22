@@ -18,3 +18,6 @@ the above code is for the fast api server
  streamlit run streamlit.py
 ```
 this above code is for the streamlit app
+
+
+this is the final commit . GREAT LEARNING FROM MY SIDE ON HOW THESE SYSTEMS WORK.
